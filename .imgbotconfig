@@ -1,9 +1,9 @@
 {
-    "schedule": "daily", // daily|weekly|monthly
+    "schedule": "daily", 
     "ignoredFiles": [
-        "*.jpg",                   // ignore by extension
-        "image1.png",              // ignore by filename
-        "public/special_images/*", // ignore by folderpath
+        "*.jpg",                   
+        "image1.png",              
+        "public/special_images/*", 
     ],
-    "aggressiveCompression": "true" // true|false
+    "aggressiveCompression": "true" 
 }
